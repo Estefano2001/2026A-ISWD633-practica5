@@ -28,7 +28,7 @@ El archivo compose.yaml permitirá configurar dos servicios de acuerdo con el si
 - Línea 43 es necesario que el wordpress-container se encuentre disponible en todo momento, defina una política de reinicio adecuada para esto
 - wordpress-vol y mysql-vol son volúmenes nombrados.
 
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica5/blob/78cc82b49a6f43771b3c8399ed8c0b87bd2bbf04/reemplazando-compose.jpeg)
 
 ### Ejecutar Docker compose
 Este comando descargará las imágenes necesarias, creará y ejecutará los contenedores según lo definido en el archivo compose.yaml
